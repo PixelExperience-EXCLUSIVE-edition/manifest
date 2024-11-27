@@ -78,7 +78,7 @@
   <project path="device/google/contexthub" name="device_google_contexthub" remote="pixel" />
   <project path="kernel/configs" name="kernel_configs" remote="pixel-exc" />
   <project path="manifest" name="manifest" remote="pixel-exc-plus" />
-  <project path="libcore" name="libcore" remote="pixel" />
+  <project path="libcore" name="libcore" remote="pixel-exc" />
   <project path="platform_testing" name="platform_testing" remote="pixel" />
 
   <!-- Hardware repos -->
@@ -127,7 +127,7 @@
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="pixel" />
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="pixel-exc" />
   <project path="packages/modules/Virtualization" name="packages_modules_Virtualization" remote="pixel" />
-  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="pixel" />
+  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="pixel-exc" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel-exc" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel-exc" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="pixel" />
