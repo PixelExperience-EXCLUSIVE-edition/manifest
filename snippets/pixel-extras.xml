@@ -23,7 +23,7 @@
   
   <!-- Packages repos -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="pixel" />
-  <project path="packages/apps/DocumentsUI" name="packages/apps/DocumentsUI" remote="pixel-exc" />
+  <project path="packages/apps/DocumentsUI" name="packages_apps_DocumentsUI" remote="pixel-exc" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="pixel" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="pixel" />
   <project path="packages/apps/RepainterService" name="packages_apps_RepainterService" remote="pixel-plus" />
