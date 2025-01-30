@@ -17,4 +17,5 @@
   <project path="packages/modules/NeuralNetworks" name="LineageOS/android_packages_modules_NeuralNetworks" remote="lineage-forks"/>
   <project path="external/sonivox" name="LineageOS/android_external_sonivox" remote="lineage-forks"/>
   <project path="system/libfmq" name="LineageOS/android_system_libfmq" remote="lineage-forks"/>
+  <project path="external/giflib" name="LineageOS/android_external_giflib" remote="lineage-forks"/>
 </manifest>

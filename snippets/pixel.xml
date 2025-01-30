@@ -132,7 +132,7 @@
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel-exc" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="pixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="pixel-exc-plus" />
-  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel-exc" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" remote="pixel" clone-depth="1" />
